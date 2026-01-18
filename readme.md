@@ -13,3 +13,10 @@ I am a passionate software engineer with expertise in developing scalable web ap
 - Databases: MongoDB, MySQL, PostgreSQL
 - Tools: Git, Docker, AWS, Jenkins
 - Methodologies: Agile, Scrum
+
+## Experience
+
+- Python Developer at Turing (2023 - 2025)
+  - Managed AI models (ChatGPT, DALL-E)
+  - Trained and fine-tuned models for specific applications
+  - Trained AI agents to perform tasks autonomously
